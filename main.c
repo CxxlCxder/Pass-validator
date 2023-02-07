@@ -1,3 +1,9 @@
+/*
+* Password Validator v1
+* Creator : Relic ( CooL-CodeR )
+* Feb 2023
+*/
+
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
